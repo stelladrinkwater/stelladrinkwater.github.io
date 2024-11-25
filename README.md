@@ -1,4 +1,4 @@
-# stella.github.io
+# stelladrinkwater.github.io
 personal website
 
 ## TESTING
