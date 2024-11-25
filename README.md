@@ -1,3 +1,3 @@
 # stelladrinkwater.github.io
-personal website - using the moonwalk theme (https://github.com/abhinavs/moonwalk)
+personal website - using the minimal jekyll theme b/c i like two column format
 
