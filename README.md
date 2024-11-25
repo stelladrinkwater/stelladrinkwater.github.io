@@ -1,4 +1,3 @@
 # stelladrinkwater.github.io
-personal website
+personal website - using the moonwalk theme (https://github.com/abhinavs/moonwalk)
 
-## TESTING
