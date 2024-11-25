@@ -10,5 +10,3 @@ quick "greatest hits" list of some of my projects: scoring for VR (and tradition
 my decade+ of guitar practice and my background in theatre (2018-2021: sound designer for 6 shows) grounds my understanding of live sound, composition, and storytelling.
 
 i want to build things with people who value deep attention and love their work. _if that's you..._ and you're looking for someone who has ~~endless~~ patience for troubleshooting, a strong motor in their heart, and experience with all kinds of audio tech, **come and find me.**
-
-![image space](https://guides.github.com/activities/hello-world/branching.png)
