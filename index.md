@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-my practice lies in the intersection of sound and code. i often feel torn between the analog and the digital. i wish to dissolve this tension.
+_my practice lies in the intersection of sound and code. i often feel torn between the analog and the digital. i wish to dissolve this tension._
 
 i'm currently pursuing a <ins>b.sc. with a combined major in computer science and music</ins>.
 
