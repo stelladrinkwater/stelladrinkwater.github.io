@@ -10,114 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+my practice lies in the intersection of sound and code. i often feel torn between the analog and the digital. i wish to dissolve this tension.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+i'm currently pursuing a b.sc. with a combined major in computer science and music.
 
-## Header 2
+quick "greatest hits" list of some of my projects: scoring for VR (and traditional) film, developing a VR experience with a team of students through the [PXR XRtist Link Up](https://performanceandxr.com/initiatives/xrtist-link-up/) program, creating audio applications in python + max, [producing educational video content about music technology](https://youtu.be/va4UkxFtGmY), performing with my band [shark bite spite](https://sharkbitespite.carrd.co) (vocals/guitar/synth/drums/bass), and completing a VKURA research project on spatial audio mixing for [Paul Walde's Glacial](https://paulwalde.bandcamp.com/album/glacial?from=search&search_item_id=3876905523&search_item_type=a&search_match_part=?&search_page_id=3878063983&search_page_no=1&search_rank=1&search_sig=98c3993dd7d917ddb6fddd1c5b0318df). 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+my decade+ of guitar practice and my background in theatre (2018-2021 - sound designer for 6 shows) grounds my understanding of live sound, composition, and storytelling.
 
-### Header 3
+i want to build things with people who value deep attention and love their work. if that's you and you're looking for someone who has endless patience for troubleshooting, a strong motor in their heart, and experience with all kinds of audio tech, come find me.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
+### add image here
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
