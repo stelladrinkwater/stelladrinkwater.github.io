@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 my practice lies in the intersection of sound and code. i often feel torn between the analog and the digital. i wish to dissolve this tension.
 
 i'm currently pursuing a b.sc. with a combined major in computer science and music.
@@ -24,3 +15,12 @@ i want to build things with people who value deep attention and love their work.
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
