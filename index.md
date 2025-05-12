@@ -11,4 +11,4 @@ my decade+ of guitar practice and my background in theatre (2018-2021: sound des
 
 i want to build things with people who value deep attention and love their work. _if that's you..._ and you're looking for someone who has ~~endless~~ patience for troubleshooting, a strong motor in their heart, and experience with all kinds of audio tech, reach out.
 
-[film and theatre CV](filmtheatre.md)
+[film and theatre cv](filmtheatre.md)
