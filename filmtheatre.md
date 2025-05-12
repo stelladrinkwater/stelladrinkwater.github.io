@@ -12,7 +12,7 @@ Music Editor
 ### 2024
 
 #### Whisper - Dir. Arnold Lim
-Boom Op, Composer
+Boom Op/Sound Mixer, Composer
 
 ![BFF06E86-1DEC-46BE-93FD-72524740AB14_1_105_c](https://github.com/user-attachments/assets/65f59025-c140-486a-8dbc-bb20c6f16eda)
 ![42776E36-9259-4342-9276-90695A92983D_1_105_c](https://github.com/user-attachments/assets/23890696-a28e-47ba-a8d5-078effb36eac)
