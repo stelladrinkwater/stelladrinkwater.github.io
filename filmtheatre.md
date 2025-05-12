@@ -44,6 +44,7 @@ Composed a little score with MIDI instruments and such. Hilights [here](https://
 
 #### This Old House - Edmonton Fringe
 Summer 2021
+![Screenshot 2025-05-11 at 11 44 26 PM](https://github.com/user-attachments/assets/27aa0dbf-b823-469f-a14a-46038b8fb3b4)
 
 Sound designer and live sound technician. It was really fun working with Grace, it was a beautiful script about an old house in Alberta and the stories of the people who lived in and passed through it. 
 
