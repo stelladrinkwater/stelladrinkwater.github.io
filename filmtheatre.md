@@ -11,6 +11,14 @@ Music Editor
 
 ### 2024
 
+### Happy Birthday, Harvey - Short Film
+![Screenshot 2025-05-14 at 11 08 22 PM](https://github.com/user-attachments/assets/118cad55-776d-4a42-9762-0dd03ce26a8b)
+
+[link here!](https://www.youtube.com/watch?v=8y0vbLDbz6k)
+
+Did a little cover of the song "Freaks" for this.
+
+
 #### Whisper - Dir. Arnold Lim
 Boom Op/Sound Mixer, Composer
 
